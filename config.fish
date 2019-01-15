@@ -1,0 +1,22 @@
+#alias yt='function _yt(){ youtube-dl -o - "$1" | vlc -; };_yt'
+alias mp3dl="youtube-dl --extract-audio --audio-format mp3"
+alias ytdl="youtube-dl"
+alias sudo="sudo -p 'Salutations, $USER. Thine passphrase shall be the gate that enables infinite power. Beware: '"
+alias banal="systemd-analyze"
+alias blame="systemd-analyze blame"
+alias chain="systemd-analyze critical-chain"
+alias free="free -m"
+alias fishprompt="nano $HOME/.config/fish/functions/fish_prompt.fish"
+alias aliases="nano $HOME/.config/fish/config.fish"
+alias rc="nano $HOME/.bashrc"
+alias installed="apt list --installed | grep $1"
+alias autopurge="sudo apt autoremove --purge"
+alias newt="/usr/bin/fish"
+alias x="exit"
+alias sim="apt $1 $2 -s"
+alias simpurge="apt autoremove --purge -s"
+alias siminstall="apt install $1 -s"
+alias spkg="apt search"
+alias upd="pkcon refresh; and pkcon update -y"
+
+clear
