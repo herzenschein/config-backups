@@ -1,0 +1,2 @@
+#This file is to be used as a reminder of kdeconnect-cli piping-onto-android.
+kdeconnect-cli -n $(kdeconnect-cli -l --name-only)
