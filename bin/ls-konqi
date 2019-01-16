@@ -1,3 +1,3 @@
 #!/bin/bash
-#This is used to list all Konqi's faces available on a KDE Plasma system!
+#This is used to list all Konqi's faces available on your KDE Plasma system!
 find /usr/share/emoticons/Konqi/face-*.png | grep -o -P '(?<=face-).*(?=.png)'
