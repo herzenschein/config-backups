@@ -1,4 +1,4 @@
 #!/bin/bash
 #Use ls-konqi first in order to grab all Konqi emoticons available on your KDE Plasma system!
-#This also requires libnotify to be on your system.
+#This also requires libnotify-bin to be on your system.
 notify-send "$1" "$2" -i /usr/share/emoticons/Konqi/face-$3.png
