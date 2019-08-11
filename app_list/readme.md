@@ -13,15 +13,15 @@ Kontact -- It works, y'know, and I love it
 
 ## Downloadable applications
 
-Discord -- Proprietary, but I actually have friends. https://discordapp.com/download
+Discord -- Proprietary, but I actually have friends. https://discordapp.com/api/download?platform=linux&format=deb
 
 MellowPlayer -- It's a must for Soundcloud. https://colinduquesnoy.gitlab.io/MellowPlayer/
 
 PopcornTime -- I almost never use it, only as a last resource, and not even in this case. https://itsfoss.com/popcorn-time-ubuntu-linux/
 
-SoftmakerOffice -- I like their company, they're German, linux-friendly AND translator-friendly. https://www.softmaker.com/en/applications
+SoftmakerOffice -- I like their company, they're German, linux-friendly AND translator-friendly. https://www.softmaker.net/down/softmaker-office-2018_966-01_amd64.deb
 
-Etcher -- Might be Electron, but replaces gnome-disk-utility nicely. https://dl.bintray.com/etcher/debian/
+Etcher -- Might be Electron, but replaces gnome-disk-utility nicely. https://dl.bintray.com/etcher/debian/:etcher-electron_1.4.4_amd64.deb
 
 Haguichi -- For long-distance support. https://launchpad.net/~webupd8team/+archive/ubuntu/haguichi/+packages
 
