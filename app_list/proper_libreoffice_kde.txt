@@ -1,0 +1,1 @@
+sudo apt install libreoffice-core libreoffice-writer libreoffice-calc libreoffice-style-breeze libreoffice-kde libreoffice-l10n-pt-br libreoffice-lightproof-en libreoffice-lightproof-pt-br
